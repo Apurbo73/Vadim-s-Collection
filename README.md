@@ -59,4 +59,3 @@ Result: `9876556789` ✅ beautiful and smallest.
 
 ---
 
-Let me know if you’d like a [step-by-step trace](f) of another example or [visual diagram](f) to make it even clearer!
