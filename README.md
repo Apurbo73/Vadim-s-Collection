@@ -1,6 +1,5 @@
-﻿# Vadim-s-Collection
+﻿### Vadim s Collection
 
-Sure! Let’s break it down simply and clearly. You’re given a **beautiful phone number** (a string of 10 digits), and you need to rearrange it to get the **smallest possible beautiful number**.
 
 ---
 
